@@ -5,8 +5,10 @@
 - [Olu-Olagbuji Delight](https://github.com/Dheelyte)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - [KryptoShrimp] (https://link3.to/ferreyros)
+- [Anubhav Singh Chandel](https://github.com/AnubhavSinghChandel)
 - [Muhammad Ihtisham Alam Khan] (https://github.com/muhammadIhtishamKhan)
 - Ishita
+- [Archana Palepu](https://github.com/archanaseru)
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
 - [Mohamed Essam] (https://github.com/mohamed-official/)
 - [Bikal Koju] ()
@@ -27,6 +29,7 @@
 - [wai](https://github.com/WaiYanMinThaton)
 - [jeromepalayoor](https://github.com/jeromepalayoor)
 - [kushagra seth](https://github.com/kseth0808)
+- [Swapnil-Kapale](https://github.com/Swapnil-Kapale)
 - [kseth0808]()
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemis
 - [Sameer Sharma](https://github.com/nawabsahab16))
@@ -1177,6 +1180,7 @@ Subhajit Bera
 - [Hertanto Irawan](https://github.com/hertantoirawan)
 - Gregory 
 - xyl
+- [Ayan__Bhattacharya] (https://github.com/Ayanbhattachary)
 - [Stefano__Nebo] (https://github.com/snebo)
 - [Elijah Lawson](https://github.com/ElijahLawson)
 - [Alden Smith](https://github.com/Major-Lag98)
@@ -3536,3 +3540,6 @@ Ayan Das
 - [Jose Sarmento] (https://github.com/josesarmento)
 - [Shlok Agrawal] (https://github.com/shlokagrawal)
 - [Shivam Bhardwaj] (https://github.com/ShivamBhardwaj93)
+- [yyyaaaccc](https://github.com/yyyaaaccc)
+- [Paarth Jung Thapa](https://github.com/Paarth11)
+- [Yassine Haimouch](https://github.com/yassinehaimouch)
